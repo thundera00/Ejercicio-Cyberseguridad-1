@@ -1,0 +1,19 @@
+Ejercicio_Ciberseguridad | Comparación de Hash MD5
+
+Achivos Readme:
+
+90965b0eb20e68b7d0b59accd2a3b4fd  copia.sh
+0b29406e348cd5f17c2fd7b47b1012f9  log.txt
+6d5e43a730490d75968279b6adbd79ec  pass.txt
+129ea0c67567301df1e1088c9069b946  plan-A.txt
+4e9878b1c28daf4305f17af5537f062a  plan-B.txt
+66bb9ec43660194bc066bd8b4d35b151  script.py
+
+Archivos descargados:
+
+90965B0EB20E68B7D0B59ACCD2A3B4FD
+F2B0428B975452AFBC641E46A042231B -- El Hash del archivo descargado (log.txt) no coincide con el Hash del archivo Readme.
+6D5E43A730490D75968279B6ADBD79EC
+129EA0C67567301DF1E1088C9069B946
+4E9878B1C28DAF4305F17AF5537F062A
+66BB9EC43660194BC066BD8B4D35B151
